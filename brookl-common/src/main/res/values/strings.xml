@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">布鲁克浏览器</string>
+    <string name="title_browser">浏览器</string>
+    <string name="title_dashboard">功能</string>
+    <string name="title_user">我</string>
+    <string name="calculate">计算器</string>
+</resources>

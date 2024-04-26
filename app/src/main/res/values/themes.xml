@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="MyThemeBrooklApp" parent="Theme.BrooklApp">
+
+    </style>
+    <style name="LauncherTheme" parent="MyThemeBrooklApp">
+        <item name="android:windowBackground">@drawable/bg_launcher_activity</item>
+    </style>
+</resources>
